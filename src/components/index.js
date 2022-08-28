@@ -1,0 +1,11 @@
+export { default as Navbar } from "./Navbar";
+export { default as Hero } from "./Hero";
+export { default as Companies } from "./Companies";
+export { default as Value } from "./Value";
+export { default as FeatureFirst } from "./FeatureFirst";
+export { default as NewsLetter } from "./NewsLetter";
+export { default as FeatureSecond } from "./FeatureSecond";
+export { default as Testimonials } from "./Testimonials";
+export { default as CTA } from "./CTA";
+export { default as Footer } from "./Footer";
+export { default as FooterBar } from "./FooterBar";
