@@ -24,7 +24,7 @@ const Value = () => {
   return (
     <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
       <h3 className="font-manrope font-extrabold text-lg uppercase text-secondary">
-        why de-crypto
+        why de crypto
       </h3>
       <h4 className="font-manrope font-bold text-[40px] leading-[69px] text-center tracking-tight capitalize">
         Specially Designed For Crypto Payments

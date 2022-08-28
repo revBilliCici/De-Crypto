@@ -31,7 +31,7 @@ const Navbar = () => {
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <h3 className="uppercase font-manrope font-bold text-[20px] leading-[25px]">
-        De-Crypto
+        De Crypto
       </h3>
 
       <ul className="list-none sm:flex hidden justify-center items-center">
